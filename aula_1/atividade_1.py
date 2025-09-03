@@ -7,3 +7,5 @@ a = c
 
 print ("\nA = ", a,"B = ",b )
 
+print ("um por todos e todos por um")
+
